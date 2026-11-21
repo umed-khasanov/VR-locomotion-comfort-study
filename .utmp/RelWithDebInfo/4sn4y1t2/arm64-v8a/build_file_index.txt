@@ -1,0 +1,2 @@
+C:\VR_AR and Spatial Computing\VR-locomotion-comfort-study\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\VR_AR and Spatial Computing\VR-locomotion-comfort-study\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
