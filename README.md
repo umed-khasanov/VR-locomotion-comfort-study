@@ -18,4 +18,7 @@ Unity 6000.3.22f1, XR Interaction Toolkit 3.3.2 (import the Starter Assets sampl
 ## Study
 Compare both schemes on the same route and rate discomfort (FMS 0–20) after each run.
 
+## Video
+https://youtu.be/5WgPve3by0g
+
 
